@@ -1,0 +1,26 @@
+h1,footer{
+    color: aqua;
+    font-family: 'Trebuchet MS';
+    font-style: italic;
+    align-self: center;
+    text-align: center;
+}
+head,body{
+    background-color:darkseagreen;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 15px;
+}
+.pl{
+    color: beige;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+}
